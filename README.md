@@ -2,7 +2,7 @@
 # Cabinets d'avocats Dupont & Associés
 
 Projet personnel de conception et paramétrage d'un réseau 
-Le fichier Packet Tracer est mis a disposition dans le repository
+Le fichier Packet Tracer est mis à disposition dans le repository
 
 
 
@@ -22,4 +22,5 @@ Il est également éxigé qu'un moyen de connexion sans-fil soit mis à disposit
 
 ## Topologie
 
-<img width="1191" height="690" alt="image" src="https://github.com/user-attachments/assets/3b729fb7-0598-48f2-acec-1ebb949cfa1d" />
+<img width="1191" height="690" alt="image" src="https://github.com/user-attachments/assets/8249a354-ac20-4ffc-afe7-194c94b5694a" />
+
