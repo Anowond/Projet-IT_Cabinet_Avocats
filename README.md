@@ -1,7 +1,7 @@
 
 # Cabinets d'avocats Dupont & Associés
 
-Projet personnel de conception et paramétrage d'un réseau 
+Projet personnel de conception et paramétrage d'un réseau de type SOHO
 
 Le fichier Packet Tracer est mis à disposition dans le repository
 
