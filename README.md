@@ -2,7 +2,7 @@
 # Cabinets d'avocats Dupont & Associés
 
 Projet personnel de conception et paramétrage d'un réseau 
-
+Le fichier Packet Tracer est mis a disposition dans le repository
 
 
 
